@@ -1,0 +1,39 @@
+1.1 Purpose
+This document gives detailed fuctional and non-functional requirements for railway registration management system.
+The purpose of this document is that the requirements mentioned in it should be utilized by software developer to implement the system.
+
+1.2 Scope
+"Railway reservation System" is an attempt to simulate the basic concepts of an online Reservation System.The system enables to perform the following functions:
+  SEARCH FOR TRAIN
+  BOOKING OF A SELECTED SEAT
+  PAYMENT
+  CANCELLATION
+  FREIGHT REVENUE ENHANCEMENT
+  PASSENGER REVENUE ENHANCEMENT
+  IMPROVED AND OPTIMINZED SERVICE
+  
+1.3 Overview
+This system provides an easy solution to the customers to keep track reservation
+
+GENERAL DESCRIPTION
+The railway reservation system faculitates the passenger to enquiry about the trains available on the  basis of source and desetination, booking and cancellation of
+tickets.
+
+2.1 User Manual
+  The system should provide Help option in which to operate the system be explained. Also soft copy of the ticket should be given to the user in a invoice form
+  name id proof.
+  
+3. INTEFACE
+ 3.2 GUI
+      GUI 1 : Main menu should provide options such as Login, forget password,Help.
+      GUI 2 : In Login menu he able to Login to main page of railway reservation system
+      GUI 3 : The display of interface should be attractive
+   
+4. Software Interface
+  Software Interface 1 : Railway reservation system
+  Software Interface 2 : E-mail message generator which generates standard message
+  Software Interface 3 : Report generates
+  
+5. Hardware Interface
+  Hardware Interface 1: The system should be embeded in the Laptop.
+  Hardware Interface 2: The Laptop should use Wireless Ethernet card to send e-mails.
